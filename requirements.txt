@@ -7,7 +7,7 @@ ipdb==0.10.1
 ipython==5.0.0
 ipython-genutils==0.1.0
 matplotlib==1.5.1
-numpy==1.11.1
+numpy==1.22.0
 pandas==0.18.1
 pathlib2==2.1.0
 pexpect==4.2.0
